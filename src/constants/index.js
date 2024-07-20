@@ -38,23 +38,23 @@ export const features = [
     {
         id: 'feature-1',
         icon: star,
-        title: 'Rewards',
+        title: 'Premium Qulaity',
         content:
-            'The best credit cards offer some tantalizing combinations of promotions and prizes',
+            'okyoBar Vapes are built to last, offering exceptional quality and reliability.',
     },
     {
         id: 'feature-2',
         icon: shield,
-        title: '100% Secured',
+        title: '100% Authentic',
         content:
-            'We take proactive steps make sure your information and transactions are secure.',
+            'Each product is verified and crafted with genuine materials for unparalleled satisfaction.',
     },
     {
         id: 'feature-3',
         icon: send,
-        title: 'Balance Transfer',
+        title: 'Superior Ingredients',
         content:
-            'A balance transfer credit card can save you a lot of money in interest charges.',
+            'Our vapes are meticulously designed to provide a clean, rich, and flavorful experience with every puff.',
     },
 ]
 
@@ -62,25 +62,25 @@ export const feedback = [
     {
         id: 'feedback-1',
         content:
-            'Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.',
-        name: 'Herman Jensen',
-        title: 'Founder & Leader',
+            'As a long-time vaper, I can confidently say that TokyoBar Vapes are 100% authentic.',
+        name: 'Hela Al-Farzasesi',
+        title: 'Customer',
         img: people01,
     },
     {
         id: 'feedback-2',
         content:
-            "Money makes your life easier. If you're lucky to have it, you're lucky.",
-        name: 'Steve Mark',
-        title: 'Founder & Leader',
+            "TokyoBar is a brand I trust. Their commitment to quality.",
+        name: 'Omar Al-Hoddeodh',
+        title: 'Customer',
         img: people02,
     },
     {
         id: 'feedback-3',
         content:
-            'It is usually people in the money business, finance, and international trade that are really rich.',
-        name: 'Kenn Gallagher',
-        title: 'Founder & Leader',
+            'The performance of TokyoBar Vapes is top-notch. They are reliable, authentic, and deliver a superior vaping experience.',
+        name: 'Laylath Najjawar',
+        title: 'Customer',
         img: people03,
     },
 ]

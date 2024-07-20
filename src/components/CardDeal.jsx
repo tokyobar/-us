@@ -14,12 +14,12 @@ const CardDeal = () => (
             className={layout.sectionInfo}
         >
             <h2 className={styles.heading2}>
-                Find a better card deal <br className="sm:block hidden" /> in
+            TokyoBar Vapes are 100% authentic <br className="sm:block hidden" /> in
                 few easy steps.
             </h2>
             <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-                Arcu tortor, purus in mattis at sed integer faucibus. Aliquet
-                quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+            Ensuring you receive the highest quality vaping experience.
+            Each product is verified and crafted with genuine materials for unparalleled satisfaction.
             </p>
 
             <Button styles={`mt-10`} />
